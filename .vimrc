@@ -7,7 +7,6 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'elixir-lang/vim-elixir'
 Plugin 'fatih/vim-go'
-Plugin 'valloric/youcompleteme'
 
 " Themes
 Plugin 'chankaward/vim-railscasts-theme'
